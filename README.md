@@ -12,3 +12,4 @@ hey! I am Ruy Alonso, just a teen who loves CyberSecurity, music, chess and bask
 ### knowledge
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft)](https://github.com/anuraghazra/github-readme-stats)
