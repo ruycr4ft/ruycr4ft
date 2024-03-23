@@ -12,15 +12,18 @@ hey! I am Ruy Alonso, just a teen who loves CyberSecurity, music, chess and bask
 ### knowledge
 
 <p align="left">
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/csharp.svg" title = "C#" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/linux.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/windows10.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/gnubash.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/powershell.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/python.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/cplusplus.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/chsarp.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/php.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/javascript.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/html5.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/dotnet.svg" alt="" height="30" /></a>
+<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/microsoftazure.svg" alt="" height="30" /></a>
 </p>
 
 
