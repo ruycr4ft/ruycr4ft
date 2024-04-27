@@ -29,9 +29,10 @@ hey! I am Ruy Alonso, just a teen who loves CyberSecurity, music, chess and bask
 
 ### my content
 
-I currently only released two boxes on the HTB platform:
+I currently only released three boxes on the HTB platform:
 
 - 🏥 hospital: https://app.hackthebox.com/machines/576
 - 📷 monitored: https://app.hackthebox.com/machines/583
+- 📧 mailing: https://app.hackthebox.com/machines/600
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft&show_icons=true&theme=dark)
