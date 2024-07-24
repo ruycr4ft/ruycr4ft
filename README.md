@@ -34,5 +34,6 @@ I currently only released three boxes on the HTB platform:
 - 🏥 hospital: https://app.hackthebox.com/machines/576
 - 📷 monitored: https://app.hackthebox.com/machines/583
 - 📧 mailing: https://app.hackthebox.com/machines/600
+- 🏗️ compiled: https://app.hackthebox.com/machines/Compiled
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft&show_icons=true&theme=dark)
