@@ -1,6 +1,6 @@
 ### whoami
 
-hey! I am Ruy Alonso, just a teen who loves CyberSecurity, music, chess and basketball! 
+I'm one more guy creating content for HTB and learning
 
 ### stuff
 
@@ -29,11 +29,16 @@ hey! I am Ruy Alonso, just a teen who loves CyberSecurity, music, chess and bask
 
 ### my content
 
-I currently only released three boxes on the HTB platform:
+I've currently only released nine boxes on the HTB platform:
 
 - 🏥 hospital: https://app.hackthebox.com/machines/576
 - 📷 monitored: https://app.hackthebox.com/machines/583
 - 📧 mailing: https://app.hackthebox.com/machines/600
-- 🏗️ compiled: https://app.hackthebox.com/machines/Compiled
+- 🏗️ compiled: https://app.hackthebox.com/machines/618
+- 🌵 monitorsthree: https://app.hackthebox.com/machines/622
+- 🧑‍🎓 certified: https://app.hackthebox.com/machines/633
+- ⛓️ escapetwo: https://app.hackthebox.com/machines/642
+- 💥 bigbang: https://app.hackthebox.com/machines/645
+- 🚢 titanic: https://app.hackthebox.com/machines/648
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft&show_icons=true&theme=dark)
