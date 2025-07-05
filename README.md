@@ -7,25 +7,13 @@ I'm one more guy creating content for HTB and learning
 - 🔭 working on HTB conent creation.
 - 🌱 learning about sysadmin and red teaming!
 - 📫 contact me: ruycr4ft@gmail.com
-- 🌐 my website: https://ruycr4ft.github.io/
+- 🌐 my website: https://ruycr4fts-notes.gitbook.io/the-machine-creators-wiki
 - 📦 hackthebox profile: https://app.hackthebox.com/profile/1253217
 
 ### knowledge
 
-<p align="left">
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/linux.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/windows10.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/gnubash.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/powershell.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/python.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/cplusplus.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/chsarp.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/php.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/javascript.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/html5.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/dotnet.svg" alt="" height="30" /></a>
-<a target="blank"><img align="center" src="https://github.com/ruycr4ft/ruycr4ft/blob/main/microsoftazure.svg" alt="" height="30" /></a>
-</p>
+- active directory sysadmin (adquired experience by messing with it since 2022)
+- also some linux knowledge, but not as advanced as AD, learning docker right now
 
 ### my content
 
@@ -40,5 +28,6 @@ I've currently only released nine boxes on the HTB platform:
 - ⛓️ escapetwo: https://app.hackthebox.com/machines/642
 - 💥 bigbang: https://app.hackthebox.com/machines/645
 - 🚢 titanic: https://app.hackthebox.com/machines/648
+- 🐶 fluffy: https://app.hackthebox.com/machines/662
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft&show_icons=true&theme=dark)
