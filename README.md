@@ -17,7 +17,7 @@ I'm one more guy creating content for HTB and learning
 
 ### my content
 
-I've currently only released nine boxes on the HTB platform:
+I've currently only released eleven boxes on the HTB platform:
 
 - 🏥 hospital: https://app.hackthebox.com/machines/576
 - 📷 monitored: https://app.hackthebox.com/machines/583
@@ -29,5 +29,6 @@ I've currently only released nine boxes on the HTB platform:
 - 💥 bigbang: https://app.hackthebox.com/machines/645
 - 🚢 titanic: https://app.hackthebox.com/machines/648
 - 🐶 fluffy: https://app.hackthebox.com/machines/662
+- 🍟 fries: https://app.hackthebox.com/machines/Fries
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruycr4ft&show_icons=true&theme=dark)
